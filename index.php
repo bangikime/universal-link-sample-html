@@ -11,17 +11,13 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
-
-    <div class="card" style="width: 18rem;">
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
