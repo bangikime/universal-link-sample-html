@@ -12,9 +12,9 @@
   </head>
   <body>
   <ul class="list-group list-group-flush">
-  <a href="home.html"><li class="list-group-item">Ketoprak Jafar</li></a>
-  <a href="news.html"><li class="list-group-item">Nasi Uduk Si Ema</li></a>
-  <a href="home.html"><li class="list-group-item">Kuetiaw BBS</li></a>
+  <li class="list-group-item"><a href="home.html">Ketoprak Jafar</a></li>
+  <li class="list-group-item"><a href="news.html">Nasi Uduk Si Ema</a></li>
+  <li class="list-group-item"><a href="home.html">Kuetiaw BBS</a></li>
 
 </ul>
     <!-- Optional JavaScript -->
